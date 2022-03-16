@@ -1,3 +1,1 @@
-
-My first readme
-up_to_date
+My taskes for 0x02-functions_nested_loops
